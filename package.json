@@ -1,12 +1,15 @@
 {
   "name": "popperupper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "license": "MIT",
   "dependencies": {
     "iframe-resizer": "^3.5.14",
     "tingle.js": "^0.11.0"
   },
+  "files": [
+    "dist/"
+  ],
   "repository": "Motortrak/popperupper",
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.22.0",
